@@ -6,8 +6,8 @@
 
   (title_block
     (title "Polykit-X Voice Card")
-    (date "2022-06-14")
-    (rev "v0.0.3")
+    (date "2022-08-24")
+    (rev "v0.0.4")
     (company "Jan Knipper")
     (comment 1 "github.com/polykit")
   )
