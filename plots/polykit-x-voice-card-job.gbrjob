@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.6-3a73a75311~116~ubuntu21.10.1"
+      "Version": "6.0.10-86aedd382b~118~ubuntu22.04.1"
     },
-    "CreationDate": "2022-08-24T00:04:32+02:00"
+    "CreationDate": "2023-01-26T20:13:08+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "polykit-x-voice-card",
       "GUID": "706f6c79-6b69-4742-9d78-2d766f696365",
-      "Revision": "v0.0.4"
+      "Revision": "v1.0.0"
     },
     "Size": {
       "X": 200.1,
