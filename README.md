@@ -96,15 +96,15 @@ Select filter mode on pins 32-34
 
 You need a control voltage 1V/octave source like a keyboard or two fixed, precise voltages in order to tune the VCO. Also a tuning device or a mobile tuning app is needed.
 
-RV3 (TUNE) is for trimming the overall tune, RV5 (SCLAE) is for adjusting the distance between two notes.
+RV3 (TUNE) is for trimming the overall tune, RV5 (SCALE) is for adjusting the distance between two notes.
 
 Take two notes that are one octave apart, eg. C3 and C4. play the first note and trim RV3 to that note.
 
-Now go back and forth between both notes and adjust RV5 so that the correct distance between them gets closer. The first note will drift away while doing this so go back to it by adjusting C3 again from time to time. Repeat this until both notes are perfectly in tune.
+Now go back and forth between both notes and adjust RV5 so that the correct distance between them gets closer. The first note will drift away while doing this so go back to it by adjusting RV3 again from time to time. Repeat this until both notes are perfectly in tune.
 
 RV4 (HFT) is for trimming the higher frequencies if neccessary.
 
-### BOM
+## BOM
 
 |Reference                                                                                                      |Qnty|Value              |Description                                                                                           |
 |---------------------------------------------------------------------------------------------------------|----|-------------------|------------------------------------------------------------------------------------------------------|
