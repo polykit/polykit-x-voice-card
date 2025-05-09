@@ -26,7 +26,7 @@ Video playlist on its functionality and design process: https://www.youtube.com/
 
 ## Printed Circuit Boards
 
-Geber files for PCB production [can be downloaded here](plots/). There is a small batch of PCBs for sale on Tindie. If you like to support me you can get them from https://www.tindie.com/products/27330/
+Geber files for PCB production [can be downloaded here](plots/).
 
 ## Pinout
 
